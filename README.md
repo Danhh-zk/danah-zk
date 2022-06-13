@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danah-zakaria-7&label=Profile%20views&color=0e75b6&style=flat" alt="danah-zakaria-7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danah-zakaria-7" alt="danah-zakaria-7" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/xdn_7" target="blank"><img src="https://img.shields.io/twitter/follow/xdn_7?logo=twitter&style=for-the-badge" alt="xdn_7" /></a> </p>
 
 - 🌱 I’m currently learning **Application Development**
 
-- ⚡ Fun fact **I need a cup of coffee, when I'm programming**
-
 - 💬 Ask me about anything **on Twitter**
 
-- 📫 How to reach me [:](danhh.zk.7@gmail.com)
+- 📫 How to reach me **danhh.zk.7@gmail.com**
+
+- ⚡ Fun fact **I need a cup of coffee, when I'm programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danah-zakaria-7&show_icons=true&locale=en" alt="danah-zakaria-7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danah-zakaria-7&" alt="danah-zakaria-7" /></p>
+
 
