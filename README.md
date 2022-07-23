@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danah Zakaria</h1>
+<h1 align="center">Hi 👋, I'm Danah </h1>
 <h3 align="center">👩🏻‍💻 student majoring in computer scince</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danah-zakaria-7&label=Profile%20views&color=0e75b6&style=flat" alt="danah-zakaria-7" /> </p>
